@@ -54,7 +54,7 @@
 		"covert": "^1.1.0",
 		"jscs": "^3.0.7",
 		"eslint": "^3.16.0",
-		"@ljharb/eslint-config": "^11.0.0",
+		"@ljharb/eslint-config": "^12.0.0",
 		"nsp": "^2.6.2",
 		"evalmd": "^0.0.17",
 		"has": "^1.0.1"
